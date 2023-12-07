@@ -3,6 +3,7 @@ import random
 import sqlite3
 import matplotlib.pyplot as plt
 
+
 from abc import ABC, abstractmethod
 from datetime import datetime, timedelta
 
